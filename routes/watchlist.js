@@ -1,7 +1,7 @@
 // routes/watchlist.js
 //
 // Full CRUD for the watchlist, stored in MongoDB:
-//   GET    /api/watchlist       list all saved movies (newest first)
+//   GET    /api/watchlist       list all saved movies (newest  first)
 //   POST   /api/watchlist       add a movie
 //   PUT    /api/watchlist/:id   mark watched / change rating
 //   DELETE /api/watchlist/:id   remove a movie
