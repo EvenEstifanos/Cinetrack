@@ -1,5 +1,5 @@
 // public/script.js
-//
+///
 // Frontend logic (vanilla JavaScript, no framework). Handles tab switching,
 // movie search, loading trending movies, rendering movie cards, and adding
 // or removing watchlist entries by calling the server's REST API.
