@@ -1,5 +1,4 @@
 // models/Movie.js
-//
 // Mongoose schema for a watchlist entry. Movies added from search keep
 // their TMDB id (unique, so the same movie can't be added twice); custom
 // movies added by hand have no TMDB id, which is why the index is sparse.
